@@ -10,14 +10,14 @@ This project is a Java-based payroll system developed for MotorPH as part of the
 - Modular class structure for payroll processing
 - Console-based interface (or GUI if applicable)
 
-## 🚀 How to Run the Project
+## How to Run the Project
 ### Using NetBeans
 1. Open NetBeans
 2. Click **Open Project**
 3. Select the project folder
 4. Run the main class: `OOP_Nodalo.java`
 
-## 🧠 OOP Concepts Applied
+## OOP Concepts Applied
 - **Encapsulation** – Data and methods are grouped within classes
 - **Modularity** – Separation of payroll logic and data handling
 - **Abstraction** – Simplified interface for payroll computation
